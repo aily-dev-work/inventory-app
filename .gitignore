@@ -1,16 +1,15 @@
 # Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*.log
-
-# venv
-venv/
 .venv/
+venv/
+.env
 
-# macOS
+# Node
+node_modules/
+dist/
+build/
+
+# OS
 .DS_Store
-
-# editor
-.vscode/
+Thumbs.dbvenv/
