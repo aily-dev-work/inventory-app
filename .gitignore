@@ -13,4 +13,3 @@ build/
 # OS
 .DS_Store
 Thumbs.dbvenv/
-venv/
