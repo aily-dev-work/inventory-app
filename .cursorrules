@@ -17,14 +17,14 @@
 
 ## コーディング規約
 - 型ヒントを可能な限り付与
-- Pydantic を使用する
+- Pydan Stic を使用する
 - マジックナンバー・ハードコードを避ける
 
 ## Git / 運用
+- commit message は日本語で記述する
 - venv/ は .gitignore に含める
 - commit は意味単位で行う
 - 設計変更を伴う場合は理由を明示する
-- commit message は日本語で記述する
 
 ## 開発環境
 - Mac：Web / スマホアプリ開発
