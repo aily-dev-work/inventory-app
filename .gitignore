@@ -12,7 +12,16 @@ build/
 
 # OS
 .DS_Store
-Thumbs.dbvenv/
+Thumbs.db
 
 app.db
 *.sqlite3
+
+# Additional security exclusions
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.p8
+*.keystore
